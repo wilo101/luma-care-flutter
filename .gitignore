@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+.flutter-plugins*
+*.iml
+.idea/
+google-services.json
+GoogleService-Info.plist
