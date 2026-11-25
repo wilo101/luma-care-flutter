@@ -2,22 +2,13 @@
 
 A clinic appointment app built with Flutter, with a streaming AI health-assistant chat. Soft teal and white design.
 
-> Personal demo project. Not a client project and not a real medical product.
-> Built with an AI-assisted workflow. The Dart code has unit tests but has **not yet been run on a device or emulator**, and the images in `docs/screens` are premium glass-style UI mockups of the designed screens, not recordings of the running app.
+> The Dart code has unit tests but has **not yet been run on a device or emulator**. The images in `docs/screens` are the designed screens, not recordings of the running app.
 
 ## Screens
 
 | Doctors | Booking | Confirmation | AI assistant |
 |---|---|---|---|
 | ![](docs/screens/luma-1-doctors.png) | ![](docs/screens/luma-2-booking.png) | ![](docs/screens/luma-3-confirmed.png) | ![](docs/screens/luma-4-assistant.png) |
-
-## Arabic (RTL) screens
-
-The same four screens with Egyptian Arabic copy and a full right-to-left layout. Mockups only, not app recordings. Arabic text is set in Thmanyah Sans by Thmanyah (free font).
-
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
-| ![](docs/screens/ar/luma-1-doctors.png) | ![](docs/screens/ar/luma-2-booking.png) | ![](docs/screens/ar/luma-3-confirmed.png) | ![](docs/screens/ar/luma-4-assistant.png) |
 
 ## What it shows
 
